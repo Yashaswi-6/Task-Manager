@@ -13,12 +13,18 @@ Save and Load: Persist tasks in a tasks.json file.
 ## Requirements
 Python 3.x(No additional dependencies required)
 
-## How to Run
-1. Ensure Python 3 is installed.
-2. Save the code as task_manager.py.
+## How to run on codespaces in github
+1. Navigate to "<>code" button and select "Codespaces".
+2. Open an existing codespace (example: friendly barnacle) or create a new code space.
+3. In the terminal enter the below command to run the application:
+   python task_manager.py
+
+## How to Run on your local machine
+1. Clone the repository in your local.
+2. Ensure Python 3 is installed.
 3. Open a terminal or command prompt.
 4. Navigate to the directory where task_manager.py is saved.
-6. Run the application:
+5. Run the application:
    ```bash
    python task_manager.py
 
