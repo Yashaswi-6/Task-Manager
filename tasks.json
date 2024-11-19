@@ -1,23 +1,23 @@
 {
     "tasks": [
         {
+            "id": 4237,
+            "title": "Complete the python course",
+            "completed": true
+        },
+        {
             "id": 4240,
-            "title": "java",
+            "title": "finish my daily workout",
             "completed": false
         },
         {
             "id": 4243,
-            "title": "Typescript",
-            "completed": false
+            "title": "Go out for a walk",
+            "completed": true
         },
         {
             "id": 4246,
-            "title": "javascript",
-            "completed": false
-        },
-        {
-            "id": 4249,
-            "title": "Typo",
+            "title": "Learn to cook",
             "completed": false
         }
     ],
@@ -25,6 +25,6 @@
         4240,
         4243,
         4246,
-        4249
+        4237
     ]
 }
