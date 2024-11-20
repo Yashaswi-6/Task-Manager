@@ -14,9 +14,10 @@ Save and Load: Persist tasks in a tasks.json file.
 Python 3.x(No additional dependencies required)
 
 ## How to run on codespaces in github
-1. Navigate to "<>code" button and select "Codespaces".
-2. Open an existing codespace (example: friendly barnacle) or create a new code space.
-3. In the terminal enter the below command to run the application:
+1. Make sure you are logged into github to use codespaces.
+2. Navigate to "<>code" button and select "Codespaces".
+3. Open an existing codespace (example: friendly barnacle) or create a new code space.
+4. In the terminal enter the below command to run the application:
    python task_manager.py
 
 ## How to Run on your local machine
